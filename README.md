@@ -104,16 +104,11 @@ You can see a lot of commentar to understand the differentes functionalities imp
 
 #### 1. Pipeline :
 
-I don't have totally start from scratch : I used the NVIDIA pipeline as recommandation.
-
------------------------------------------------------------------------------------------------------------
 Firstly, 2 preliminary steps are useful :
 
    - the normalization of the images (mean and small variance implementation)
 
    - a cropping step to delete the part of the images not useful four our treatement
-
--------------------------------------------------------------------------------------------------------------
 
 Secondly,the model consists of a convolution neural network of 9 layers :
 
