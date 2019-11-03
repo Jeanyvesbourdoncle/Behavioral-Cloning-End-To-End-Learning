@@ -1,4 +1,4 @@
-### **Behavioral Cloning** (Regression with an CNN)
+### **Behavioral Cloning** (Regression with an CNN model)
 
 The target is here to train the weights of our CNN to minimize the mean squared error between the steering command output by the 
 network and the command of either the human driver.
@@ -26,7 +26,7 @@ reduce in maximum this error.
 
 #### Files Submitted & Code Quality :
 
-#### Imput of the application :
+##### Imput of the application :
 
 The project includes the following files as imput of the application : 
 
@@ -38,7 +38,7 @@ The project includes the following files as imput of the application :
 
 -----------------------------------------------------------------------------------------------
 
-#### Output/results of the application :
+##### Output/results of the application :
 
 The project includes the following files as output of the application :
 
@@ -51,7 +51,7 @@ The project includes the following files as output of the application :
 * readme.md to summarize the results
 
 -----------------------------------------------------------------------------------------------
-#### Instructions :
+#### Instructions for the use of the CNN model :
 
 model.py generates a model.h5 : this model will be used to test the model in the real simulation window
 
