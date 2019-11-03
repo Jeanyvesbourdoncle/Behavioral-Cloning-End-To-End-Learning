@@ -1,4 +1,4 @@
-## **Behavioral Cloning** (Regression CNN)
+# **Behavioral Cloning** (Regression CNN)
 
 The target is here to train the weights of our CNN to minimize the mean squared error between the steering command output by the 
 network and the command of either the human driver.
@@ -59,7 +59,7 @@ python video.py run1 --fps48
 
 
 This lab requires:
-•	CarND Term1 Starter Kit, download [here] (https://github.com/udacity/CarND-Term1-Starter-Kit)
+•	CarND Term1 Starter Kit, download here : https://github.com/udacity/CarND-Term1-Starter-Kit
 
 The lab environment can be created with this CarND Term1 Starter Kit.
 
@@ -105,12 +105,7 @@ You can see a lot of commentar to understand the differentes functionalities imp
 
 # 1. Pipeline
 
-I don't have start from scratch : I used the NVIDIA pipeline. It's more a transfert learning application.
-
-Only the end of the pipeline was changed to decrease the overfitting but no modification in the first layers.
-
-The startegy is always the same, the w and the h must decrease and the depth (d) must incrase step by step.
-
+I don't have totally start from scratch : I used the NVIDIA pipeline as recommandation.
 
 -----------------------------------------------------------------------------------------------------------
 Firstly, 2 preliminary steps are useful :
