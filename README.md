@@ -1,4 +1,4 @@
-### **Behavioral Cloning** (Regression with an CNN model)
+## **Behavioral Cloning** (Regression with an CNN model)
 
 The target is here to train the weights of our CNN to minimize the mean squared error between the steering command output by the 
 network and the command of either the human driver.
@@ -99,7 +99,7 @@ You can see a lot of commentar to understand the differentes functionalities imp
 
 ------------------------------------------------------------------------------------------------------------
 
-### Model Architecture and Training Strategy
+## Model Architecture and Training Strategy
 
 #### 1. Pipeline :
 
@@ -189,7 +189,7 @@ At the end of the process, the vehicle is able to drive autonomously around the 
 
 -----------------------------------------------------------------------------------------------------------------------
 
-### Conclusion :
+## Conclusion :
 
 For the model architecture vizualization, please generate the code model.py, and you can see :
 
