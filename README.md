@@ -66,9 +66,7 @@ The lab environment can be created with this CarND Term1 Starter Kit.
 
 --------------------------------------------------------------------------------------------------
 
-#### You cand find the different file in the folder "CarND-Behavioral-CLoning-P3" :
-
-You can find in model.py these functionalities :
+#### You can find in model.py these functionalities :
 
    - open and read the images implemented in the csv file with the "input data" (from the training set)
    
