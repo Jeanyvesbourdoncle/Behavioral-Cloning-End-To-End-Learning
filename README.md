@@ -10,8 +10,6 @@ steering command (from our CNN). One Error measurement will be measured and we w
 reduce in maximum this error.
 
 Project Overview :(https://github.com/Jeanyvesbourdoncle/Behavioral-Cloning-End-To-End-Learning/blob/master/Behavioral_Cloning_Overview.pdf)
-![Image description](https://github.com/Jeanyvesbourdoncle/Behavioral-Cloning-End-To-End-Learning/blob/master/Behavioral_Cloning_Overview.pdf)
-
 
 ---------------------------------------------------------------------------------------------
 
@@ -126,6 +124,7 @@ Secondly,the model consists of a convolution neural network of 9 layers :
    - for every layer, a standard ReLu activation Unit will be used.
    
 Model Pipeline : https://github.com/Jeanyvesbourdoncle/Behavioral-Cloning-End-To-End-Learning/blob/master/pipeline.png
+![Image description](https://github.com/Jeanyvesbourdoncle/Behavioral-Cloning-End-To-End-Learning/blob/master/pipeline.png)
 
 -----------------------------------------------------------------------------------------------------------
 
