@@ -24,7 +24,7 @@ reduce in maximum this error.
 
 -----------------------------------------------------------------------------------------------
 
-#### Files Submitted & Code Quality :
+#### Input/Output of the application :
 
 ##### Imput of the application :
 
