@@ -26,9 +26,9 @@ reduce in maximum this error.
 
 #### Files Submitted & Code Quality :
 
-My project includes the following files:
+#### Imput of the application :
 
-input for the application "behavior cloning" : 
+The project includes the following files as imput of the application : 
 
 * model.py containing the script to create and train the model
 
@@ -38,7 +38,9 @@ input for the application "behavior cloning" :
 
 -----------------------------------------------------------------------------------------------
 
-#### Output/results from the application "behavior cloning" :
+#### Output/results of the application :
+
+The project includes the following files as output of the application :
 
 * model.h5 containing a trained convolution neural network
 
