@@ -20,7 +20,7 @@ reduce in maximum this error.
 
 * Test that the model successfully drives around track one without leaving the road
 
-* Summarize the results with a written report
+* Summarize the results with a written report (implemented in the readme.md)
 
 -----------------------------------------------------------------------------------------------
 
@@ -36,7 +36,6 @@ The project includes the following files as imput of the application :
 
 * folder data with the csv file with the "training mode" data recording (features and labels)
 
------------------------------------------------------------------------------------------------
 
 ##### Output/results of the application :
 
