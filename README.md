@@ -10,6 +10,8 @@ steering command (from our CNN). One Error measurement will be measured and we w
 reduce in maximum this error.
 
 Project Overview :(https://github.com/Jeanyvesbourdoncle/Behavioral-Cloning-End-To-End-Learning/blob/master/Behavioral_Cloning_Overview.pdf)
+![Image description](https://github.com/Jeanyvesbourdoncle/Behavioral-Cloning-End-To-End-Learning/blob/master/Behavioral_Cloning_Overview.pdf)
+
 
 ---------------------------------------------------------------------------------------------
 
