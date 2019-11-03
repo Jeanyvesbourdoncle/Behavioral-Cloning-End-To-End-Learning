@@ -1,4 +1,4 @@
-## **Behavioral Cloning** (Regression CNN)
+### **Behavioral Cloning** (Regression with an CNN)
 
 The target is here to train the weights of our CNN to minimize the mean squared error between the steering command output by the 
 network and the command of either the human driver.
@@ -10,7 +10,7 @@ reduce in maximum this error.
 
 ---------------------------------------------------------------------------------------------
 
-### The goals / steps of this project are the following:
+#### The goals / steps of this project are the following:
 
 * Use the simulator to collect data of good driving behavior
 
@@ -24,7 +24,7 @@ reduce in maximum this error.
 
 -----------------------------------------------------------------------------------------------
 
-### Files Submitted & Code Quality
+#### Files Submitted & Code Quality
 
 My project includes the following files:
 
@@ -38,7 +38,7 @@ input for the application "behavior cloning" :
 
 -----------------------------------------------------------------------------------------------
 
-### output/results from the application "behavior cloning" :
+#### Output/results from the application "behavior cloning" :
 
 * model.h5 containing a trained convolution neural network
 
@@ -49,7 +49,7 @@ input for the application "behavior cloning" :
 * readme.md to summarize the results
 
 -----------------------------------------------------------------------------------------------
-### instructions
+#### Instructions
 
 model.py generates a model.h5 : this model will be used to test the model in the real simulation window
 
@@ -65,7 +65,7 @@ The lab environment can be created with this CarND Term1 Starter Kit.
 
 --------------------------------------------------------------------------------------------------
 
-### You cand find the different file in the folder "CarND-Behavioral-CLoning-P3"
+#### You cand find the different file in the folder "CarND-Behavioral-CLoning-P3"
 
 You can find in model.py these functionalities :
 
@@ -101,9 +101,9 @@ You can see a lot of commentar to understand the differentes functionalities imp
 ------------------------------------------------------------------------------------------------------------
 
 
-## Model Architecture and Training Strategy
+### Model Architecture and Training Strategy
 
-### 1. Pipeline
+#### 1. Pipeline
 
 I don't have totally start from scratch : I used the NVIDIA pipeline as recommandation.
 
@@ -130,7 +130,7 @@ Secondly,the model consists of a convolution neural network of 9 layers :
 -----------------------------------------------------------------------------------------------------------
 
 
-### 2. Attempts to reduce overfitting in the model
+#### 2. Attempts to reduce overfitting in the model
 
 The model contains dropout layers in order to reduce overfitting.
 
@@ -149,7 +149,7 @@ The model was tested by running it through the simulator and ensuring that the v
 --------------------------------------------------------------------------------------------------------------
 
 
-### 3. Model parameter tuning
+#### 3. Model parameter tuning
 
 The model used an adam optimizer. 
 
@@ -162,7 +162,7 @@ That why, I have worked with the adam optimizer with default hyperparameters.
 
 ----------------------------------------------------------------------------------------------------------------
 
-### 4. Appropriate training data
+#### 4. Appropriate training data
 
 Training data was chosen to keep the vehicle driving on the road. For that, it was very important to increase the number of "input images" from the the training set. 
 
@@ -174,7 +174,7 @@ The second step was to split the input data in 2 parts : training set (80% of th
 ---------------------------------------------------------------------------------------------------------------------
 
 
-### 5. Solution Design Approach
+#### 5. Solution Design Approach
 
 As said before, it was not really an "End to End" Learning. It was more a Transfert learning application.
 
