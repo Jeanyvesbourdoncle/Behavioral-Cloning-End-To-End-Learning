@@ -123,6 +123,7 @@ Secondly,the model consists of a convolution neural network of 9 layers :
 
    - for every layer, a standard ReLu activation Unit will be used.
    
+Model Pipeline : https://github.com/Jeanyvesbourdoncle/Behavioral-Cloning-End-To-End-Learning/blob/master/pipeline.png
 
 -----------------------------------------------------------------------------------------------------------
 
