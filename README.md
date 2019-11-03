@@ -1,5 +1,6 @@
 ## **Behavioral Cloning** (Regression with an CNN model)
 
+#### Introduction
 The target is here to train the weights of our CNN to minimize the mean squared error between the steering command output by the 
 network and the command of either the human driver.
 
@@ -10,7 +11,7 @@ reduce in maximum this error.
 
 ---------------------------------------------------------------------------------------------
 
-#### The goals / steps of this project are the following :
+#### 1) The goals / steps of this project are the following :
 
 * Use the simulator to collect data of good driving behavior
 
@@ -24,9 +25,9 @@ reduce in maximum this error.
 
 -----------------------------------------------------------------------------------------------
 
-#### Input/Output of the application :
+#### 2) Input/Output of the application :
 
-##### Imput of the application :
+##### 2a) Imput of the application :
 
 The project includes the following files as imput of the application : 
 
@@ -37,7 +38,7 @@ The project includes the following files as imput of the application :
 * folder data with the csv file with the "training mode" data recording (features and labels)
 
 
-##### Output/results of the application :
+##### 2b) Output/results of the application :
 
 The project includes the following files as output of the application :
 
@@ -50,7 +51,7 @@ The project includes the following files as output of the application :
 * readme.md to summarize the results
 
 -----------------------------------------------------------------------------------------------
-#### Instructions for the use of the CNN model :
+#### 3) Instructions for the use of the CNN model :
 
 model.py generates a model.h5 : this model will be used to test the model in the real simulation window
 
@@ -66,7 +67,7 @@ The lab environment can be created with this CarND Term1 Starter Kit.
 
 --------------------------------------------------------------------------------------------------
 
-#### You can find in model.py these functionalities :
+#### 4) You can find in model.py these functionalities :
 
    - open and read the images implemented in the csv file with the "input data" (from the training set)
    
