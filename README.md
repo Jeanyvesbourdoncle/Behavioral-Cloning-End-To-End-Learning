@@ -1,4 +1,8 @@
 ## **Behavioral Cloning** (Regression with an CNN model)
+-----
+#### Final Dynamics Results : [click here](https://github.com/Jeanyvesbourdoncle/Behavioral-Cloning-End-To-End-Learning/blob/master/run1.mp4)
+
+--------
 
 #### Introduction
 The target is here to train the weights of our CNN to minimize the mean squared error between the steering command output by the 
